@@ -1,0 +1,872 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-28 14:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: comments.php:19
+msgid "Full Name *"
+msgstr ""
+
+#: comments.php:20
+msgid "E-mail *"
+msgstr ""
+
+#: comments.php:21
+msgid "Website"
+msgstr ""
+
+#: comments.php:22
+msgid "Comment *"
+msgstr ""
+
+#: comments.php:23
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:24
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:26
+msgid "Submit"
+msgstr ""
+
+#: comments.php:27
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:34
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: comments.php:35
+msgid "Reply"
+msgstr ""
+
+#: comments.php:36
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:123
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:152
+msgid "Content Sidebar"
+msgstr ""
+
+#: functions.php:161
+msgid "Content Sidebar 2"
+msgstr ""
+
+#: functions.php:182
+msgid "Footer Sidebar"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Roboto, translate this to 'off'. Do not translate into your own language.
+#: functions.php:551
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Droid Serif, translate this to 'off'. Do not translate into your own language.
+#: functions.php:556
+msgctxt "Droid Serif font: on or off"
+msgid "on"
+msgstr ""
+
+#: searchform.php:7
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: install/install-plugins-by-tgm.php:30
+msgid "Fresh Framework"
+msgstr ""
+
+#: install/install-plugins-by-tgm.php:37
+msgid "Ark Theme Core Plugin"
+msgstr ""
+
+#: install/install-plugins-by-tgm.php:44
+msgid "Revolution Slider"
+msgstr ""
+
+#: install/install-plugins-by-tgm.php:52
+msgid "Fresh Performance Cache"
+msgstr ""
+
+#: install/install-plugins-by-tgm.php:60
+msgid "Fresh Custom Code"
+msgstr ""
+
+#: install/install-plugins-by-tgm.php:68
+msgid "Fresh File Editor"
+msgstr ""
+
+#: install/install-plugins-by-tgm.php:76
+msgid "Fresh Favicon"
+msgstr ""
+
+#: install/install-plugins-by-tgm.php:84
+msgid "Fresh Menu Item Limit Fix"
+msgstr ""
+
+#: no-ff/theme-no-ff-fallback.php:7
+msgid ""
+"It is strongly recommended to install and activate <strong>Fresh "
+"Framework</strong> plugin and <strong>Ark Theme Core Plugin</strong> to use "
+"100% theme options and settings."
+msgstr ""
+
+#: woocommerce/product-searchform.php:29
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/product-searchform.php:34
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr ""
+
+#: woocommerce/product-searchform.php:37
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: builder/helpers/ark_navigation.php:15
+#: builder/helpers/Walker_Nav_Menu_Ark_Vertical.php:8
+msgid ""
+"No menu selected. Create menu in the WP Admin menu &raquo; Appearance &raquo;"
+" Menu."
+msgstr ""
+
+#: builder/helpers/ark_navigation.php:35
+msgid "Toggle navigation"
+msgstr ""
+
+#: framework/components/class.ffComponent_Theme_MenuOptions.php:8
+msgid "Mega menu (for first level only)"
+msgstr ""
+
+#: framework/components/class.ffComponent_Theme_MenuOptions.php:10
+msgid "Classic Menu"
+msgstr ""
+
+#: framework/components/class.ffComponent_Theme_MenuOptions.php:11
+msgid "Mega menu with 2 columns"
+msgstr ""
+
+#: framework/components/class.ffComponent_Theme_MenuOptions.php:12
+msgid "Mega menu with 3 columns"
+msgstr ""
+
+#: framework/components/class.ffComponent_Theme_MenuOptions.php:13
+msgid "Mega menu with 4 columns"
+msgstr ""
+
+#: framework/components/class.ffComponent_Theme_MenuOptions.php:14
+msgid "Mega menu with 6 columns"
+msgstr ""
+
+#: framework/components/class.ffComponent_Theme_SinglePost.php:12
+msgid "Blogpost Text"
+msgstr ""
+
+#: framework/components/class.ffComponent_Theme_SinglePost.php:14
+msgid "Show Instead Original Text"
+msgstr ""
+
+#: framework/components/class.ffComponent_Theme_SinglePost.php:17
+#: framework/core/class.ffSidebarManagerHolder.php:34
+#: framework/components/widgets/latestNews/class.ffComponent_LatestNewsWidget_OptionsHolder.php:9
+#: framework/components/widgets/latestPost/class.ffComponent_LatestPostWidget_OptionsHolder.php:9
+#: framework/components/widgets/timeline/class.ffComponent_TimelineWidget_OptionsHolder.php:9
+#: framework/components/widgets/twitter/class.ffComponent_TwitterWidget_OptionsHolder.php:9
+msgid "Title"
+msgstr ""
+
+#: framework/components/class.ffComponent_Theme_SinglePost.php:20
+msgid "Description"
+msgstr ""
+
+#: framework/core/class.ffSidebarManagerHolder.php:22
+#: framework/adminScreens/sidebarManager/class.ffAdminScreenSidebarManager.php:6
+#: framework/adminScreens/sidebarManager/class.ffAdminScreenSidebarManager.php:7
+#: framework/adminScreens/sidebarManager/class.ffAdminScreenSidebarManagerViewDefault.php:20
+msgid "Sidebars"
+msgstr ""
+
+#: framework/core/class.ffSidebarManagerHolder.php:26
+msgid "Sidebar"
+msgstr ""
+
+#: framework/core/class.ffSidebarManagerHolder.php:29
+msgid "ID"
+msgstr ""
+
+#: framework/core/class.ffSidebarManagerHolder.php:37
+#: framework/core/class.ffThemeOptionsHolder.php:541
+#: framework/core/class.ffThemeOptionsHolder.php:713
+#: framework/core/class.ffThemeOptionsHolder.php:793
+msgid "Note"
+msgstr ""
+
+#: framework/core/class.ffSidebarManagerHolder.php:56
+msgid "Save"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:105
+msgid "Container Size"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:463
+msgid "Page loader"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:464
+msgid "Enable page loader overlay"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:467
+msgid "Scroll to top button"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:468
+msgid "Enable scroll to top button"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:471
+msgid "Smooth Scroll"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:475
+msgid "Link Scrolling Animation"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:476
+msgid "Enable animation when visitor click on #link"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:477
+msgid "with speed"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:478
+msgid "miliseconds"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:479
+msgid "with offset"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:500
+msgid "Main Color Accent"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:509
+msgid "Main Transparent Color Accent"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:517
+msgid "Muted admin UI colors"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:542
+msgid ""
+"Please note that including too many Custom/Google Fonts may decrease your "
+"site performance and loading speeds."
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:545
+msgid "Include Custom Fonts"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:549
+#: framework/core/class.ffThemeOptionsHolder.php:607
+msgid "Custom Font"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:554
+msgid "Custom font name"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:558
+msgid "EOT file (IE6-IE9)"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:562
+msgid "WOFF2 file"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:566
+msgid "WOFF file"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:570
+msgid "TTF file (Safari, Android, iOS)"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:574
+msgid "SVG file (Legacy iOS)"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:576
+msgid ""
+"Fill with path to font, for example: <code>http://example.com/wp-content/my-"
+"custom-font/my-custom-font.woff</code>"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:577
+#: framework/core/class.ffThemeOptionsHolder.php:737
+msgid ""
+"Please note, that icon fonts CSS files should be uploaded via FTP to your "
+"server."
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:583
+msgid "Web Safe Font Fallback"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:593
+msgid "Default Fallback"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:600
+msgid ""
+"<span style=\"color: red;\">After including, you will be able to use/pick "
+"these fonts in Fresh Builder</span>"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:614
+msgid "Google Font Settings"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:618
+msgid "Select what font variants do you want to load globally on your website:"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:622
+msgid "Font Normal"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:636
+msgid "Font Cursive (Italic)"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:669
+msgid "Select \"Body\" Font"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:670
+#: framework/core/class.ffThemeOptionsHolder.php:674
+#: framework/core/class.ffThemeOptionsHolder.php:678
+#: framework/core/class.ffThemeOptionsHolder.php:683
+msgid "Family "
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:673
+msgid "Select \"Body Alt\" Font"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:677
+msgid "Select \"Code\" Font"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:682
+msgid "Include Google Font"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:684
+msgid ""
+"<span style=\"color: red;\">After including, you will be able to use/pick "
+"this font in Fresh Builder</span>"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:714
+msgid ""
+"Please note, that too many of custom icon fonts may decrease site "
+"performance and loading speed."
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:715
+msgid ""
+"If you have problem, that instead of icons you see squares, please check <a "
+"href=\"//support.freshface.net/knowledge-base/faq-frequently-asked-"
+"questions/#faq-domain-moved\" target=\"_blank\">FAQ &rArr; I changed domain "
+"and web is broken</a>"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:718
+msgid "Custom Fonts"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:722
+msgid "Custom font"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:725
+msgid "CSS File ID or slug"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:727
+msgid ""
+"Allowed characters are <code>a-z</code>, <code>0-9</code> and minus "
+"character <code>-</code>."
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:728
+msgid "Please note, that custom icon fonts with same ID will be ignored."
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:734
+msgid "Path to icon font"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:735
+msgid "Leave empty to ignore"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:736
+msgid ""
+"Fill with path to font, for example: <code>wp-content/my-icon-font/my-icon-"
+"font.css</code>"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:738
+msgid ""
+"Be sure, that your icon font style does not contain selectors like <code>"
+"[class*=icon-]</code> - if it contains, please replace in the the string "
+"\"icon\" with the string \"my-custom-icon\" or something similar in the "
+"whole CSS file"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:768
+msgid "Enable font "
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:794
+msgid ""
+"Please note, that if you use any caching plugin, you should delete cache to "
+"apply changes."
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:795
+msgid ""
+"If settings did not apply, go to <a href=\"./options-permalink.php\" "
+"target=\"_blank\">WordPress Admin &rArr; Settings &rArr; Permalinks</a> and "
+"press there <strong>Save changes</strong> even if you did not change "
+"anything."
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:798
+msgid "Portfolio post Slug"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:802
+msgid "Portfolio Category Slug"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:806
+msgid "Portfolio Tag Slug"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:826
+#: framework/core/class.ffThemeOptionsHolder.php:828
+msgid "Google API key"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:831
+msgid ""
+"Please note, that you must have Google account (email) to create API key."
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:835
+msgid ""
+"Go to the page <a href=\"https://developers.google."
+"com/maps/documentation/javascript/get-api-key#get-an-api-key\" "
+"target=\"_blank\">https://developers.google."
+"com/maps/documentation/javascript/get-api-key#get-an-api-key</a> and click "
+"on the button <strong class=\"btn btn-xs btn-primary\">GET A KEY</strong>."
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:838
+msgid ""
+"Click on <strong class=\"btn btn-xs btn-primary\">Continue</strong> -it will "
+"take a moment"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:841
+msgid "Click on <strong class=\"btn btn-xs btn-primary\">Create</strong>"
+msgstr ""
+
+#: framework/core/class.ffThemeOptionsHolder.php:844
+msgid ""
+"There will be the modal window with input labeled <code>Here is your API "
+"key</code>"
+msgstr ""
+
+#: functions/internal/theme-specific.php:86
+msgid ""
+"Before you can start using the <strong>Ark theme</strong>, you need to "
+"activate the <strong>Ark Theme Core plugin</strong> first."
+msgstr ""
+
+#: no-ff/fallbacks/blog-meta.php:23
+msgid "No Comments"
+msgstr ""
+
+#: no-ff/fallbacks/blog-meta.php:24
+msgid "1 Comment"
+msgstr ""
+
+#: no-ff/fallbacks/blog-meta.php:25
+msgid "% Comments"
+msgstr ""
+
+#: no-ff/fallbacks/blog.php:10
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: no-ff/fallbacks/blog.php:24
+#, php-format
+msgid "Search Results for '%s'"
+msgstr ""
+
+#: no-ff/fallbacks/blog.php:126
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#. Name of the template
+msgid "Buttons Block Page"
+msgstr ""
+
+#. Name of the template
+msgid "Buttonssdsdsdsdsd Page"
+msgstr ""
+
+#. Name of the template
+msgid "Controlling Page"
+msgstr ""
+
+#. Name of the template
+msgid "Styling Page"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:87
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:100
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:113
+msgid "No products in the cart."
+msgstr ""
+
+#: framework/adminScreens/themeOptions/class.ffAdminScreenThemeOptions.php:6
+#: framework/adminScreens/themeOptions/class.ffAdminScreenThemeOptions.php:7
+msgid "Theme Options"
+msgstr ""
+
+#: framework/adminScreens/metaBoxes/metaBoxFooter/class.ffComponent_Theme_MetaboxFooterView.php:9
+msgid "Footer Type"
+msgstr ""
+
+#: framework/adminScreens/metaBoxes/metaBoxFooter/class.ffComponent_Theme_MetaboxFooterView.php:11
+msgid "Normal"
+msgstr ""
+
+#: framework/adminScreens/metaBoxes/metaBoxFooter/class.ffComponent_Theme_MetaboxFooterView.php:12
+msgid "Footer Reveal"
+msgstr ""
+
+#: framework/adminScreens/metaBoxes/metaBoxFooter/class.ffMetaBoxFooter.php:6
+msgid "Footer Settings"
+msgstr ""
+
+#: framework/adminScreens/metaBoxes/metaBoxHeaderSettings/class.ffMetaBoxHeaderSettings.php:6
+msgid "Logo and Navigation Settings"
+msgstr ""
+
+#: framework/adminScreens/metaBoxes/metaBoxPageSettings/class.ffComponent_Theme_MetaboxPageSettingsView.php:9
+msgid "Custom Page Header"
+msgstr ""
+
+#: framework/adminScreens/metaBoxes/metaBoxPageSettings/class.ffComponent_Theme_MetaboxPageSettingsView.php:11
+#: framework/adminScreens/metaBoxes/metaBoxPageSettings/class.ffComponent_Theme_MetaboxPageSettingsView.php:18
+msgid "Default from Theme Options"
+msgstr ""
+
+#: framework/adminScreens/metaBoxes/metaBoxPageSettings/class.ffComponent_Theme_MetaboxPageSettingsView.php:12
+msgid "No Header"
+msgstr ""
+
+#: framework/adminScreens/metaBoxes/metaBoxPageSettings/class.ffComponent_Theme_MetaboxPageSettingsView.php:16
+msgid "Custom Page Footer"
+msgstr ""
+
+#: framework/adminScreens/metaBoxes/metaBoxPageSettings/class.ffComponent_Theme_MetaboxPageSettingsView.php:19
+msgid "No Footer"
+msgstr ""
+
+#: framework/adminScreens/metaBoxes/metaBoxPageSettings/class.ffMetaBoxPageSettings.php:7
+msgid "Page Settings"
+msgstr ""
+
+#: framework/adminScreens/metaBoxes/metaBoxPortfolio/class.ffComponent_Theme_MetaboxPortfolioView.php:11
+msgid "Custom Post Title"
+msgstr ""
+
+#: framework/adminScreens/metaBoxes/metaBoxPortfolio/class.ffComponent_Theme_MetaboxPortfolioView.php:14
+msgid "If left empty, the default Post Title will be printed."
+msgstr ""
+
+#: framework/adminScreens/metaBoxes/metaBoxPortfolio/class.ffComponent_Theme_MetaboxPortfolioView.php:19
+msgid "Custom Subtitle"
+msgstr ""
+
+#: framework/adminScreens/metaBoxes/metaBoxPortfolio/class.ffComponent_Theme_MetaboxPortfolioView.php:22
+msgid "If left empty, the default Subtitle will be printed."
+msgstr ""
+
+#: framework/adminScreens/metaBoxes/metaBoxPortfolio/class.ffComponent_Theme_MetaboxPortfolioView.php:26
+msgid "Custom Link URL"
+msgstr ""
+
+#: framework/adminScreens/metaBoxes/metaBoxPortfolio/class.ffComponent_Theme_MetaboxPortfolioView.php:29
+msgid "If left empty, the default Single Portfolio Post URL will be printed."
+msgstr ""
+
+#: framework/adminScreens/metaBoxes/metaBoxPortfolio/class.ffComponent_Theme_MetaboxPortfolioView.php:32
+msgid "Same Tab"
+msgstr ""
+
+#: framework/adminScreens/metaBoxes/metaBoxPortfolio/class.ffComponent_Theme_MetaboxPortfolioView.php:33
+msgid "New Tab"
+msgstr ""
+
+#: framework/adminScreens/metaBoxes/metaBoxPortfolio/class.ffComponent_Theme_MetaboxPortfolioView.php:34
+msgid "Lightbox"
+msgstr ""
+
+#: framework/adminScreens/metaBoxes/metaBoxPortfolio/class.ffComponent_Theme_MetaboxPortfolioView.php:35
+msgid "Link Target"
+msgstr ""
+
+#: framework/adminScreens/metaBoxes/metaBoxPortfolio/class.ffComponent_Theme_MetaboxPortfolioView.php:40
+msgid "Image Size (Mosaic Grid)"
+msgstr ""
+
+#: framework/adminScreens/metaBoxes/metaBoxPortfolio/class.ffComponent_Theme_MetaboxPortfolioView.php:41
+msgid ""
+"IMPORTANT: The following options will take effect only in \"Mosaic Grid\" "
+"Portfolio Type."
+msgstr ""
+
+#: framework/adminScreens/metaBoxes/metaBoxPortfolio/class.ffComponent_Theme_MetaboxPortfolioView.php:46
+msgid "1 Column wide (smallest)"
+msgstr ""
+
+#: framework/adminScreens/metaBoxes/metaBoxPortfolio/class.ffComponent_Theme_MetaboxPortfolioView.php:47
+msgid "2 Columns wide"
+msgstr ""
+
+#: framework/adminScreens/metaBoxes/metaBoxPortfolio/class.ffComponent_Theme_MetaboxPortfolioView.php:48
+msgid "3 Columns wide"
+msgstr ""
+
+#: framework/adminScreens/metaBoxes/metaBoxPortfolio/class.ffComponent_Theme_MetaboxPortfolioView.php:49
+msgid "4 Columns wide"
+msgstr ""
+
+#: framework/adminScreens/metaBoxes/metaBoxPortfolio/class.ffComponent_Theme_MetaboxPortfolioView.php:50
+msgid "5 Columns wide"
+msgstr ""
+
+#: framework/adminScreens/metaBoxes/metaBoxPortfolio/class.ffComponent_Theme_MetaboxPortfolioView.php:51
+msgid "6 Columns wide (largest)"
+msgstr ""
+
+#: framework/adminScreens/metaBoxes/metaBoxPortfolio/class.ffComponent_Theme_MetaboxPortfolioView.php:52
+msgid " Maximum Column Width of this Post"
+msgstr ""
+
+#: framework/adminScreens/metaBoxes/metaBoxPortfolio/class.ffComponent_Theme_MetaboxPortfolioView.php:62
+msgid "Custom Image Aspect Ratio"
+msgstr ""
+
+#: framework/adminScreens/metaBoxes/metaBoxPortfolio/class.ffMetaBoxPortfolio.php:6
+msgid "Portfolio Category (Archive) View"
+msgstr ""
+
+#: framework/components/widgets/latestNews/class.ffComponent_LatestNewsWidget_OptionsHolder.php:6
+msgid "Latest News"
+msgstr ""
+
+#: framework/components/widgets/latestNews/class.ffComponent_LatestNewsWidget_OptionsHolder.php:16
+#: framework/components/widgets/twitter/class.ffComponent_TwitterWidget_OptionsHolder.php:16
+msgid "Max Content Height"
+msgstr ""
+
+#: framework/components/widgets/latestNews/class.ffComponent_LatestNewsWidget_OptionsHolder.php:22
+#: framework/components/widgets/latestNews/class.ffComponent_LatestNewsWidget_OptionsHolder.php:23
+#: framework/components/widgets/latestPost/class.ffComponent_LatestPostWidget_OptionsHolder.php:15
+#: framework/components/widgets/timeline/class.ffComponent_TimelineWidget_OptionsHolder.php:22
+#: framework/components/widgets/timeline/class.ffComponent_TimelineWidget_OptionsHolder.php:23
+msgid "Categories"
+msgstr ""
+
+#: framework/components/widgets/latestNews/class.ffComponent_LatestNewsWidget_OptionsHolder.php:31
+#: framework/components/widgets/timeline/class.ffComponent_TimelineWidget_OptionsHolder.php:31
+msgid "Number of Posts"
+msgstr ""
+
+#: framework/components/widgets/latestNews/class.ffComponent_LatestNewsWidget_OptionsHolder.php:36
+#: framework/components/widgets/latestPost/class.ffComponent_LatestPostWidget_OptionsHolder.php:22
+#: framework/components/widgets/timeline/class.ffComponent_TimelineWidget_OptionsHolder.php:36
+msgid "Date Format"
+msgstr ""
+
+#: framework/components/widgets/latestNews/class.ffComponent_LatestNewsWidget_OptionsHolder.php:40
+#: framework/components/widgets/latestPost/class.ffComponent_LatestPostWidget_OptionsHolder.php:26
+#: framework/components/widgets/timeline/class.ffComponent_TimelineWidget_OptionsHolder.php:40
+msgid ""
+"Available date formats: <a href=\"//php.net/manual/en/function.date.php\" "
+"target=\"_blank\">Date PHP function manual</a>"
+msgstr ""
+
+#: framework/components/widgets/latestNews/class.ffComponent_LatestNewsWidget_OptionsHolder.php:43
+msgid "Post meta"
+msgstr ""
+
+#: framework/components/widgets/latestNews/class.ffComponent_LatestNewsWidget_OptionsHolder.php:47
+msgid "In format: <code>Posted by %author% %date%</code>"
+msgstr ""
+
+#: framework/components/widgets/latestPost/class.ffComponent_LatestPostWidget_OptionsHolder.php:6
+msgid "Latest Post"
+msgstr ""
+
+#: framework/components/widgets/latestPost/class.ffComponent_LatestPostWidget_OptionsHolder.php:14
+msgid "From category"
+msgstr ""
+
+#: framework/components/widgets/timeline/class.ffComponent_TimelineWidget_OptionsHolder.php:6
+msgid "Timeline"
+msgstr ""
+
+#: framework/components/widgets/twitter/class.ffComponent_TwitterWidget_OptionsHolder.php:6
+msgid "Twitter"
+msgstr ""
+
+#: framework/components/widgets/twitter/class.ffComponent_TwitterWidget_OptionsHolder.php:15
+msgid "Set"
+msgstr ""
+
+#: framework/components/widgets/twitter/class.ffComponent_TwitterWidget_OptionsHolder.php:25
+msgid "Username"
+msgstr ""
+
+#: framework/components/widgets/twitter/class.ffComponent_TwitterWidget_OptionsHolder.php:30
+msgid "Number of Tweets"
+msgstr ""
+
+#: framework/components/widgets/twitter/class.ffComponent_TwitterWidget_OptionsHolder.php:35
+msgid "Caching time in minutes"
+msgstr ""
+
+#: framework/components/widgets/twitter/class.ffComponent_TwitterWidget_OptionsHolder.php:40
+msgid "Consumer Key"
+msgstr ""
+
+#: framework/components/widgets/twitter/class.ffComponent_TwitterWidget_OptionsHolder.php:45
+msgid "Consumer Secret"
+msgstr ""
+
+#: framework/components/widgets/twitter/class.ffComponent_TwitterWidget_OptionsHolder.php:50
+msgid "Access Token"
+msgstr ""
+
+#: framework/components/widgets/twitter/class.ffComponent_TwitterWidget_OptionsHolder.php:55
+msgid "Access Token Secret"
+msgstr ""
+
+#: framework/components/widgets/twitter/class.ffComponent_TwitterWidget_OptionsHolder.php:60
+msgid "How to create twitter access token?"
+msgstr ""
+
+#: framework/components/widgets/twitter/class.ffComponent_TwitterWidget_OptionsHolder.php:62
+msgid ""
+"Go to site <a href=\"//apps.twitter.com/app/new\" target=\"_blank\">Create "
+"an application | Twitter Application Management</a> and log in."
+msgstr ""
+
+#: framework/components/widgets/twitter/class.ffComponent_TwitterWidget_OptionsHolder.php:63
+msgid "Into fields Name, Description, Website insert your website."
+msgstr ""
+
+#: framework/components/widgets/twitter/class.ffComponent_TwitterWidget_OptionsHolder.php:64
+msgid "Check \"Yes, I agree\"."
+msgstr ""
+
+#: framework/components/widgets/twitter/class.ffComponent_TwitterWidget_OptionsHolder.php:65
+msgid "Click on button \"Create your Twitter application\"."
+msgstr ""
+
+#: framework/components/widgets/twitter/class.ffComponent_TwitterWidget_OptionsHolder.php:66
+msgid "Find and click on Button \"Test Oauth\"."
+msgstr ""
+
+#: framework/components/widgets/twitter/class.ffComponent_TwitterWidget_OptionsHolder.php:67
+msgid "Log in again."
+msgstr ""
+
+#: framework/components/widgets/twitter/class.ffComponent_TwitterWidget_OptionsHolder.php:68
+msgid ""
+"Use inputs here - you may put anything in \"Access Token\" and \"Access "
+"Token Secret\"."
+msgstr ""
+
+#: framework/components/widgets/twitter/class.ffComponent_TwitterWidget_Printer.php:27
+msgid "Bad Twitter account data!"
+msgstr ""
+
+#. Name of the theme
+msgid "Ark"
+msgstr ""
+
+#. Description of the theme
+msgid "Premium WordPress Theme"
+msgstr ""
+
+#. URI of the theme
+msgid "http://themeforest.net/user/freshface/portfolio"
+msgstr ""
+
+#. Author of the theme
+msgid "FRESHFACE"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/freshface"
+msgstr ""

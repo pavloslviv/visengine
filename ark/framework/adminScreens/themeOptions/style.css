@@ -1,0 +1,22 @@
+.theme-options-icons-preview-wrapper{
+	position: relative;
+	margin: 10px 0 0 -5px;
+}
+
+.theme-options-icons-preview-wrapper i{
+	margin: 2px;
+	font-size: 15px;
+	display: inline-block;
+	text-align: center;
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	background: #fafafa;
+	border-radius: 3px;
+	border: 1px solid #dddddd;
+}
+
+.theme-options-icons-preview-wrapper i:hover {
+	background-color: #333;
+	color: #EEE
+}

@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelog>
+    <release version="1.22.1" date="2017-09-07">
+        <change>Improved - Default Product Category Archive default template display settings</change>
+        <change>Improved - TinyMCE z index bug</change>
+        <change>Improved - the_content filter was sometimes applied twice</change>
+        <change>Improved - Amp in menu works</change>
+    </release>
+    <release version="1.22.0" date="2017-08-30">
+        <change>New - Naming Sections in builder by ID attribute for better orientation in builder</change>
+        <change>New - Drag and drop builder delay 50ms for better workflow</change>
+        <change>New - Builder can be printed through do_shortcode tag</change>
+        <change>Improved - Contact form has option to redirect to thank you page after submit</change>
+        <change>Improved - TinyMCE is not converting URLs to relative anymore</change>
+        <change>Improved - Better description to typography tab (line height)</change>
+        <change>Improved - Better URL rewriting</change>
+        <change>Improved - Amp in menu works</change>
+    </release>
+    <release version="1.21.0" date="2017-08-11">
+        <change>Improved - Post Content Default Printing Builder</change>
+    </release>
+    <release version="1.20.6" date="2017-08-08">
+        <change>Improved - Text editor z-index issue introduced by WordPress 4.8.1 fixed</change>
+    </release>
+    <release version="1.20.5" date="2017-08-08">
+        <change>New - Custom loops</change>
+        <change>New - Full Advanced Custom Fields integration</change>
+        <change>New - ACE code editor implemented in some places (more coming)</change>
+        <change>New - Ability to copy/paste sub-elements</change>
+        <change>Improved - Self-hosted video backgrounds will now play on mobile/tablet as well</change>
+    </release>
+    <release version="1.20.4" date="2017-07-07">
+        <change>New - FreshBuilder can be enabled on any CPT</change>
+        <change>Improved - Headers (pills and others)</change>
+        <change>Improved - Portfolio you can show all filters, even the empty one</change>
+        <change>Improved - Menu double tap to click iOS iPad / iPhone</change>
+    </release>
+    <release version="1.20.3" date="2017-07-04">
+        <change>Improved - WooCommerce Header</change>
+        <change>Improved - Loop sort by Author</change>
+        <change>Improved - Better demo tab description</change>
+        <change>Improved - Better Form Wrapper description</change>
+        <change>Improved - Portfolio - deep linking enabled</change>
+        <change>Improved - Portfolio - added support for custom taxonomy for filters</change>
+    </release>
+    <release version="1.20.1" date="2017-06-28">
+        <change>New - Apetit Demo added</change>
+        <change>Improved - Fresh Builder workflow</change>
+        <change>Improved - Global Styles</change>
+        <change>Improved - Hire Us Tab</change>
+    </release>
+    <release version="1.20.0" date="2017-06-27">
+        <change>New - Added Global Styles (killer feature)</change>
+        <change>New - Fresh Builder loads lightfast (killer feature)</change>
+        <change>New - Hire Us tab</change>
+        <change>New - Fresh Select (option type)</change>
+        <change>New - Apetit</change>
+        <change>Improved - Fresh Builder workflow</change>
+        <change>Improved - freshizer svg support</change>
+        <change>Improved - Multiple lines of CSS and JS printing</change>
+    </release>
+    <release version="1.19.0" date="2017-05-31">
+        <change>New - Reorganized Ark Dashboard</change>
+        <change>Improved - Gallery element better description</change>
+        <change>Improved - Yoast SEO content integration</change>
+        <change>Improved - Password protected posts</change>
+        <change>Improved - Menu font changes</change>
+        <change>Improved - New revolution slider versions</change>
+        <change>Improved - Gallery element JS rendering on backend</change>
+        <change>Improved - Accordion2 element JS rendering on backend</change>
+        <change>Improved - Migration Tab Improvement</change>
+    </release>
+    <release version="1.18.2" date="2017-05-23">
+        <change>Improved - z-index lightbox fix</change>
+        <change>Improved - demo content URL changed</change>
+    </release>
+    <release version="1.18.1" date="2017-05-17">
+        <change>Improved - parallax background image position in Firefox</change>
+        <change>Improved - links with lightbox has now options for sizes</change>
+    </release>
+    <release version="1.18.0" date="2017-05-09">
+        <change>New - Gallery Element feature added</change>
+        <change>New - 34 sections added</change>
+        <change>Improved - WooCommerce 3.0 product gallery zoom, lightbox and slider</change>
+    </release>
+    <release version="1.17.0" date="2017-04-19">
+        <change>New - Spa demo added</change>
+        <change>New - 9 sections added</change>
+        <change>New - Wrapper element has option to disable caching</change>
+        <change>Improved - Fresh Builder revision handling</change>
+        <change>Improved - Ajax influencing</change>
+        <change>Improved - OWL Slider links</change>
+    </release>
+    <release version="1.16.0" date="2017-04-12">
+        <change>New - Dentist demo added</change>
+        <change>New - Yoga demo added</change>
+        <change>New - Cafe demo added</change>
+        <change>Improved - Copy Paste</change>
+        <change>Improved - Ajax influencing</change>
+        <change>Improved - Custom Taxonomies coverage with sitemap</change>
+        <change>Improved - Sitemap</change>
+    </release>
+    <release version="1.15.0" date="2017-03-29">
+        <change>New - Icon font better implementation</change>
+        <change>New - Added option - menu items with submenu on mobile opens sumbeno and not go to another page</change>
+        <change>New - Added option to always have opened topbar on mobile phone </change>
+        <change>Improved - Header hide on scroll animation</change>
+    </release>
+    <release version="1.14.1" date="2017-03-20">
+        <change>New - WooCommerce cart in left and right menu</change>
+        <change>Improved - Font Awesome update</change>
+        <change>Improved - paragraph formatting when saving through WP publish button</change>
+        <change>Improved - youtube video background can play music</change>
+    </release>
+    <release version="1.14.0" date="2017-03-15">
+        <change>New - Developer Console appears on front-end (for admins)</change>
+        <change>New - WP Debug can be enabled from Ark Dasbhoard</change>
+        <change>Improved - Contact form javascript events</change>
+        <change>Improved - Contact Form custom messages - created example</change>
+        <change>Improved - Sitemap Scrolling</change>
+        <change>Improved - Headers, Titlebars and Footers reset</change>
+        <change>Improved - Parallax and video backgrounds cant be working on mobile phones description</change>
+        <change>Improved - Posts page and blog page cant be same</change>
+        <change>Improved - Performance Cache info message</change>
+        <change>Improved - Image info tool</change>
+        <change>Improved - Freshizer</change>
+    </release>
+    <release version="1.13.0" date="2017-03-08">
+        <change>New - Major Fresh Builder speed and usability improvement</change>
+        <change>Improved - WooCommerce tab switching</change>
+    </release>
+    <release version="1.12.0" date="2017-03-01">
+        <change>New - Boxed Wrappers - this way you can transform Ark into boxed design</change>
+        <change>New - Theme Options global layout tab - you can set one header, titlebar and footer globally</change>
+        <change>Improved - WPML layout routing funcitonality</change>
+        <change>Improved - Featured Image can have Alt and Title attributes fed from image data</change>
+        <change>Improved - Post / page settings writepanel redesigned</change>
+        <change>Improved - Duplicating layouts functionality</change>
+        <change>Improved - Javascript menu items fix</change>
+        <change>Improved - OnePage menu smoothscroll enabled by default</change>
+        <change>Improved - Text-transform css option now supports value none</change>
+        <change>Improved - Topbar</change>
+        <change>Improved - Header sidemenu can now set background color</change>
+        <change>Improved - Documentation contains chapter about how to create one page navigation</change>
+    </release>
+    <release version="1.11.0" date="2017-02-21">
+        <change>New - Element Shortcode Wrapper</change>
+        <change>New - Smoothscroll offset can be set in Theme Options</change>
+        <change>Improved - Migration Tab now have options to replace any strings inside your WP install</change>
+        <change>Improved - Single Portfolio can have custom URL, open lightbox video etc</change>
+        <change>Improved - Scroll to top button fixed menu connection</change>
+        <change>Improved - Featured Video Area</change>
+        <change>Improved - RSS Feed showing</change>
+        <change>Improved - YOAST seo opengraph tags</change>
+        <change>Improved - Global Styles can be deleted and renamed</change>
+        <change>Improved - Membership plugins compatibility</change>
+        <change>Improved - Custom Loop reset at the end</change>
+    </release>
+    <release version="1.10.1" date="2017-02-15">
+        <change>Improved - Major Contact Form improvement</change>
+    </release>
+    <release version="1.10.0" date="2017-02-14">
+        <change>New - Element Image before after</change>
+        <change>Improved - Post Content</change>
+        <change>Improved - Fresh Builder Loading</change>
+        <change>Improved - HTML Element</change>
+        <change>Improved - Accordion elements</change>
+        <change>Improved - Animated heading</change>
+        <change>Improved - WPML Search</change>
+        <change>Improved - Custom Sidebar functionality</change>
+        <change>Improved - Navigation Menu dropdown element folding</change>
+        <change>Improved - Blog Timeline added pagination</change>
+        <change>Improved - Smooth Scroll improvement</change>
+    </release>
+    <release version="1.9.1" date="2017-02-07">
+        <change>Improved - Smoothscroll and OnePage functionality</change>
+        <change>Improved - Vertical Menu</change>
+        <change>Improved - Post Content block</change>
+    </release>
+    <release version="1.9.0" date="2017-02-02">
+        <change>New - Migration Admin menu (migrate your website from staging to productions server easily)</change>
+        <change>New - Smooth Scroll available at any link</change>
+        <change>New - Added video tutorials everywhere</change>
+        <change>New - Added Support and Docs admin menu</change>
+        <change>Improved - Breadcrumbs on woo commerce single archive</change>
+        <change>Improved - Removed system tabs from header</change>
+        <change>Improved - Icon font loading</change>
+        <change>Improved - GD library version compatibility check</change>
+        <change>Improved - Fresh Framework ajax reports</change>
+    </release>
+    <release version="1.8.2" date="2017-01-27">
+        <change>New - System Status tab</change>
+        <change>Improved - Fresh Builder Caching</change>
+    </release>
+    <release version="1.8.1" date="2017-01-24">
+        <change>Improved - Updating system</change>
+    </release>
+    <release version="1.8.0" date="2017-01-23">
+        <change>New - Hair Salon demo added</change>
+        <change>Improved - Headers major improvement (added option to insert builder elements into header)</change>
+        <change>Improved - Fresh Builder Caching</change>
+        <change>Improved - Image aspect ratio</change>
+        <change>Improved - Multiple select2 options loading</change>
+        <change>Improved - Different port url rewriting</change>
+        <change>Improved - Fresh grid container</change>
+    </release>
+    <release version="1.7.1" date="2017-01-18">
+        <change>Improved - Fresh Builder Caching and Performance</change>
+    </release>
+    <release version="1.7.0" date="2017-01-17">
+        <change>New - Update feature</change>
+        <change>Improved - Fresh Builder Caching and Performance</change>
+        <change>Improved - SEO redirecting</change>
+    </release>
+    <release version="1.6.1" date="2017-01-10">
+        <change>Improved - Headers</change>
+        <change>Improved - Fresh Builder Caching</change>
+    </release>
+    <release version="1.6.0" date="2017-01-09">
+        <change>New - Header Tablet Logo option</change>
+        <change>Improved - Woo Commerce loops</change>
+        <change>Improved - PHP low version warning</change>
+        <change>Improved - PHP memory requirements</change>
+        <change>Improved - Map element has now option for insert custom JSON style</change>
+        <change>Improved - Map element double markers duplicity problem</change>
+        <change>Improved - Post Meta - custom HTML / PHP code insertion</change>
+    </release>
+    <release version="1.5.0" date="2017-01-03">
+        <change>New - Element If added</change>
+        <change>Improved - Woo Commerce loops</change>
+        <change>Improved - Header Fullscreen option to switch menu button</change>
+        <change>Improved - Header Vertical option to set width </change>
+        <change>Improved - Rev Slider Element</change>
+        <change>Improved - Custom CSS code selector input</change>
+    </release>
+    <release version="1.4.1" date="2017-01-02">
+        <change>Improved - Header and logo major improvement</change>
+    </release>
+    <release version="1.4.0" date="2016-12-26">
+        <change>New - 4 Section Blocks - Gym added</change>
+        <change>New - 5 Section Blocks - Construction added</change>
+        <change>New - 3 Section Blocks - Healthy Food added</change>
+        <change>New - Revolution Slider new version</change>
+        <change>Improved - Fresh Builder Elements JS loading</change>
+        <change>Improved - Update functionality</change>
+    </release>
+    <release version="1.3.0" date="2016-12-21">
+        <change>New - Plugin Fresh Performance Cache added ($21)</change>
+        <change>New - Plugin Fresh Custom Code added ($12)</change>
+        <change>New - Plugin Fresh File Editor added ($12)</change>
+        <change>New - Plugin Fresh Favicon added ($10)</change>
+        <change>New - Plugin WordPress Menu Item Limit Fix added ($10)</change>
+        <change>Improved - Loop pagination at front page</change>
+        <change>Improved - Theme Options font picker</change>
+        <change>Improved - WooCommerce CSS</change>
+        <change>Improved - Recaptcha JS including</change>
+    </release>
+    <release version="1.2.0" date="2016-12-20">
+        <change>New - Healthy Food Shop demo</change>
+        <change>Improved - Color picker for copyright text in vertical headers</change>
+    </release>
+    <release version="1.1.1" date="2016-12-19">
+        <change>Improved - Advanced Toggle Box usage improved</change>
+        <change>Improved - Select2 Initialization</change>
+        <change>Improved - Element Revolution Slider</change>
+        <change>Improved - Buttons openning in same window</change>
+    </release>
+    <release version="1.1.0" date="2016-12-15">
+        <change>New - Element "Breadcrumb Title" created and added</change>
+        <change>New - Element "SEO Microdata Breadcrumbs" created and added</change>
+        <change>New - Element "Specification" created and added</change>
+        <change>Improved - Header editor linking</change>
+        <change>Improved - Element "Icon" Links</change>
+        <change>Improved - Element "Carousel Slider" - major improvement</change>
+    </release>
+    <release version="1.0.3" date="2016-12-12">
+        <change>Improved - WooCommerce caching improved</change>
+        <change>Improved - Background Engine YouTube Api Loading</change>
+        <change>Improved - Fresh Builder Loading Time</change>
+    </release>
+    <release version="1.0.2" date="2016-12-10">
+        <change>New - Construction demo</change>
+        <change>New - 5 Section Blocks</change>
+        <change>New - Muted Admin Colors</change>
+        <change>Improved - Map element - major improvement</change>
+        <change>Improved - Faster Performance</change>
+        <change>Improved - Carousel Slider Arrow Navigation</change>
+    </release>
+    <release version="1.0.1" date="2016-12-07">
+        <change>Improved - Faster Performance</change>
+    </release>
+    <release version="1.0.0" date="2016-12-05">
+        <change>Initial release</change>
+    </release>
+</changelog>
+
+        <!--pridat construction demo-->
+        <!--pridat construciton sekce-->

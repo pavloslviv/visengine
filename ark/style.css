@@ -30282,9 +30282,9 @@ header.ark-header .ff-font-zocial[class*=icon]:before { font-family: 'ff-font-zo
 	float: right;
 	max-height: 90px;
 	line-height: 60px;
-	-webkit-transform: translate3d(-50%, 0, 0);
+	/*-webkit-transform: translate3d(-50%, 0, 0);
 	-moz-transform: translate3d(-50%, 0, 0);
-	transform: translate3d(-50%, 0, 0);
+	transform: translate3d(-50%, 0, 0);*/
 	transition-duration: 400ms;
 	transition-property: all;
 	transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);

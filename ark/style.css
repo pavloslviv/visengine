@@ -30694,9 +30694,10 @@ header.ark-header .ff-font-zocial[class*=icon]:before { font-family: 'ff-font-zo
 	/* Navbar */
 	.header-center-aligned-transparent .navbar-nav.navbar-nav-left {
 		float: left;
+		padding-right:0px;
 	}
 	.header-center-aligned-transparent .navbar-nav.navbar-nav-right {
-		float: right;
+		float: left;
 	}
 	.header-center-aligned-transparent .navbar-nav .nav-item .dropdown-menu {
 		z-index: 9999;
